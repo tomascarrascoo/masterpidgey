@@ -20,3 +20,9 @@ SIMULACION DE EXAMEN
 
 -git checkout -b v0.2
 -touch 2.txt
+-git checkout -b master
+-git merge v0.2 -m "v0.2"
+-git branch
+-git branch --merged
+-git tag v0.2 -m "0.2"
+-git branch -d v0.2
