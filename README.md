@@ -26,3 +26,4 @@ SIMULACION DE EXAMEN
 -git branch --merged
 -git tag v0.2 -m "0.2"
 -git branch -d v0.2
+-git log
