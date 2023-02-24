@@ -9,5 +9,6 @@ SIMULACION DE EXAMEN
 -mkdir privada
 -nano .gitignore
 -Añadimos los nombre privada/ y privado.txt al archivo .gitignore
--
+-touch 1.txt
+-git tag -a v0.1 -m "mi version 0.1"
 
