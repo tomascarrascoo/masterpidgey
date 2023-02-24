@@ -11,8 +11,12 @@ SIMULACION DE EXAMEN
 -Añadimos los nombre privada/ y privado.txt al archivo .gitignore
 -touch 1.txt
 -git tag -a v0.1 -m "mi version 0.1"
+
 | NOMBRE  | GITHUB |
 | ------------- | ------------- |
 | Carlos  | https://github.com/CharlyMech  |
 | Marc  | https://github.com/Marcgb2003  |
 | Hugo  | https://github.com/NoObX17  |
+
+-git checkout -b v0.2
+-touch 2.txt
